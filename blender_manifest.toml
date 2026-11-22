@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+id = "eeveepulse"
+version = "3.0.0"
+name = "EeveePulse"
+tagline = "Studio light rigs, color harmonies, and world dome for EEVEE"
+maintainer = "EeveePulse Team"
+type = "add-on"
+tags = ["Lighting"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/danishidris03g-source/EeveePulse"
+paths_exclude_pattern = [
+    "__pycache__/",
+    "*.pyc",
+    "/.git*",
+    "/*.zip",
+    "README.md",
+    "LICENSE",
+]
